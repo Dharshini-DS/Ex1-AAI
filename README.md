@@ -111,7 +111,7 @@ plt.show()
 ```
 ## Output:
 
-![409ex1](https://github.com/Dharshini-DS/Ex1-AAI/assets/93427345/4de75f72-f66a-4db5-b923-d57d69cd2f58)
+![409ex1](https://github.com/Dharshini-DS/Ex1-AAI/assets/93427345/bf4b5b9d-6aa5-4478-8cb3-abf470365e31)
 
 ## Result:
    Thus a Bayesian Network is generated using Python.
